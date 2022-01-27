@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamindraparui
+- 👋 Hi, I’m Shamindra Parui
 - 👀 I’m interested in Computer Vision, Deep Learning, -- anything with statistical learning.
 - 🌱 Currently I am dealing with transfer learning.
 - 💞️ I’m looking to collaborate on ...
