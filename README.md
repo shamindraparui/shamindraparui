@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamindraparui
-- 👀 I’m interested in security, software development, networking, storage
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Computer Vision, Deep Learning, -- anything with statistical learning.
+- 🌱 N I L L
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shamindra.parui@gmail.com
 
