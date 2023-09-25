@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shamindra Parui
-- 👀 I’m interested in Computer Vision, Deep Learning, -- anything with statistical learning.
-- 🌱 Currently I am dealing with transfer learning.
+- 👀 I’m interested in Machine Learning, Deep Learning -- anything with statistical learning.
+- 🌱 Currently I am dealing with video analytics with image classification, object detection.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shamindra.parui@gmail.com
 
